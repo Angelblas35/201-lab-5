@@ -12,7 +12,7 @@ Put finishing touches on your About Me project and get it deployed. The more tim
 
 Today in lab you will fork and clone a GitHub repo, and then create solutions to some code problems such that your solutions pass the included tests.
 
-**Be sure to follow instructions carefully.**
+**The detailed lab instructions are inside app.js. Be sure to follow instructions CAREFULLY.**
 
 Here are a couple of things to keep in mind:
 
